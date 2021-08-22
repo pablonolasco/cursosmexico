@@ -1,0 +1,34 @@
+url para instalar livewire
+https://laravel-livewire.com/docs/2.x/quickstart
+https://styde.net/como-instalar-y-comenzar-el-desarrollo-de-una-aplicacion-con-laravel-8-en-linux-mac-o-windows/4
+https://edinsoncs.com/crear-proyecto-con-laravel-8-y-configurarlo.html
+
+docs
+https://gabrielchavez.me/que-es-laravel-jetstream/
+
+**instalar laravel jetstream con livewire**
+
+composer require livewire/livewire
+
+composer require laravel/jetstream
+
+php artisan jetstream:install livewire
+
+npm install && npm run dev
+
+php artisan migrate
+============================///////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
